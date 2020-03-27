@@ -1,0 +1,9 @@
+.square {
+    width: 64px;
+    height: 64px;
+    background-color: red;
+    position: fixed;
+}
+.square:hover {
+    cursor: move;
+}
